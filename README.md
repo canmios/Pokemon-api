@@ -1,4 +1,4 @@
-# Bank Challenge
+# GML-Api Challenge
 
 ## How to run it 
 
